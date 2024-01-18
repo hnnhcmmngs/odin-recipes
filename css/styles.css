@@ -1,0 +1,28 @@
+* {
+    color: rgb(33, 46, 70);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+}
+
+h1 {
+    background-color: cornflowerblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+p.main {
+    text-align: center;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+
